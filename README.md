@@ -1,2 +1,4 @@
 # Hello-World
-just another repository
+
+hello ppl.
+Iam an engineering student studying computer science at Gitam university Hyderabad.
